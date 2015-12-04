@@ -8,7 +8,9 @@
 }
 
 #logo {
-	margin-left: 12%
+	margin-left: 12%;
+  position:absolute;
+  margin-top: 5%;
 }
 
 #about_img {
