@@ -2,7 +2,7 @@
 
 ### About
 The Office was for an Angular routing project at General Assembly -- I decided to have some fun with it and do "The Office" theme.  
-###[Project Link](http://rachelfourq.github.io/theoffice/#!/).
+####[Project Link](http://rachelfourq.github.io/theoffice/#!/)
 
 ### Technologies Used
 * AngularJS
